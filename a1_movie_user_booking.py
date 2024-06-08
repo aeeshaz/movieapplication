@@ -72,4 +72,5 @@ if login:
         
     print("You can have the ticket")
     print("hope u have a great movie time")
+    print('testing')
     
