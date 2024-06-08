@@ -71,3 +71,5 @@ if login:
        movie = input(f"The age doesnt match,choose another movie")
         
     print("You can have the ticket")
+    print("hope u have a great movie time")
+    
